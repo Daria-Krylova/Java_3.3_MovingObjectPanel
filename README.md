@@ -8,4 +8,5 @@
 
 - Результат:
 
-  ![Uploading ezgif.com-video-to-gif-converter (4).gif…]()
+ 
+![ezgif com-video-to-gif-converter (4)](https://github.com/Daria-Krylova/Java_3.3_MovingObjectPanel/assets/55152528/8136c1c5-f3a7-4a42-9cb1-af33225df38e)
